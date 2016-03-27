@@ -1,0 +1,33 @@
+/*
+	FILE CSS CỦA NGUYỄN THANH PHONG
+	MSSV: 1312430;
+	NGÀY TẠO: 26/32016;
+*/
+
+.center-page{
+	margin: 0px auto;
+	overflow:  visible;
+	display: block;
+	width: 50%;
+}
+
+.center-page img{
+	float: left;
+	max-width: 100%;
+	margin: 2em;
+}
+
+.center-page ul{
+	list-style-type: disc;
+	float:left;
+	margin-top: 2em;
+	padding-top: 2em;
+}
+
+.center-page ul li {
+	font-family: Lucida console;
+	list-style-type: disc;
+	line-height: 2em;
+	height: 2em;
+	color: white;
+}
